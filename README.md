@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, My name is Prangan Sen.
+#### I am a MERN Stack Web Developer
+![I am a MERN Stack Web Developer](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
 A proactive B.Tech Information Technology student at National Institute of Technology Durgapur with
 strong academic achievement and internship experience. Possess strong leadership and communication
